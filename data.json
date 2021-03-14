@@ -1,0 +1,41 @@
+{
+    "Projects": [
+        {
+            "id": 0,
+            "name": "something",
+            "description": "whatever",
+            "technologies": [
+                "html",
+                "css"
+            ],
+            "live_link": "link",
+            "github_link": "github",
+            "image_urls": [
+                "/images/aplusImg.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "something2",
+            "description": "whatever2",
+            "technologies": [
+                "html",
+                "css"
+            ],
+            "live_link": "link",
+            "github_link": "github",
+            "image_urls": [
+                "image"
+            ]
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+    ]
+}
